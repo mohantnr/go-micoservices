@@ -1,1 +1,1 @@
-lcoalfile2.txt
+lcoalfile2.txt localfile.txt
