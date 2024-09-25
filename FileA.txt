@@ -1,1 +1,2 @@
+New line added
 New file file A.txt in feature branch
