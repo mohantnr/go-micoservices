@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 a Wired line added
 New file file A.txt in feature branch
 Adding new line
 Adding second line
+=======
+New line added
+New file file A.txt in feature branch
+>>>>>>> feature1
